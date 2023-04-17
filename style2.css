@@ -3,6 +3,10 @@
     height: 100px;
     background-color: red;
     position: absolute;
+    border-style: solid;
+    border-color: green;
+    text-align: center;
+    border-width: 10px;
   }
   
   .second-box-container {
@@ -11,6 +15,10 @@
     left: 250px;
     background-color: yellow;
     position: absolute;
+    border-style: solid;
+    border-color: red;
+    text-align: center;
+    border-width: 10px;
   }
   
   .third-box-container {
@@ -19,4 +27,12 @@
     left: 500px;
     background-color: green;
     position: absolute;
+    border-style: solid;
+    border-color: yellow;
+    text-align: center;
+    border-width: 10px;
+  }
+
+  p {
+    color: blue
   }
